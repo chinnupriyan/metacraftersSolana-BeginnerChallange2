@@ -5,10 +5,10 @@
 This  will understand you through the steps to set up the user interface (UI) for your Candy Machine, allowing users to mint NFTs using the SPL token you've created. And users will be able to mint NFTs by connecting their Phantom wallet.
 ### By User chinnupriyan
 my candy machine details
- Candymachine Id:-" 2DSn87eDPWUADCz4azMxPCvfpanfax9eW7iQjKwyzFQZ",
- "splTokenAccount": "541K61GfabYLNyrLk7jZKwUexSqQ7LqLcHFHskyMLcRo",
-  "splToken": "DGnr7KZzh58CfdMuMTkvxvNU3uLhR3pJ3eGYJYqLiJ9D",
-  "pub key"; "541K61GfabYLNyrLk7jZKwUexSqQ7LqLcHFHskyMLcRo",
+-  Candymachine Id:-" 2DSn87eDPWUADCz4azMxPCvfpanfax9eW7iQjKwyzFQZ",
+-  "splTokenAccount": "541K61GfabYLNyrLk7jZKwUexSqQ7LqLcHFHskyMLcRo",
+ -  "splToken": "DGnr7KZzh58CfdMuMTkvxvNU3uLhR3pJ3eGYJYqLiJ9D",
+-   "pub key"; "541K61GfabYLNyrLk7jZKwUexSqQ7LqLcHFHskyMLcRo",
 
 ## Prerequisites
 
