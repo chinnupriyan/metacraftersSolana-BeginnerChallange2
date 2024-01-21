@@ -1,4 +1,4 @@
-# Metaplex Candy Machine Reference UI
+
 
 # Creation of SPL token & Candy machine UI Setup
 
